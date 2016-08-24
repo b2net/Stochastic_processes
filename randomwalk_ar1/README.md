@@ -26,7 +26,7 @@ Author : Lukas Borke
 Submitted : Wed, June 03 2015 by Lukas Borke
 
 Input: 
-- FALSE: number of simulated time points
+- N: number of simulated time points
 - StartVal: Starting value for X_0
 - rho: First AR-parameter (rho * X_t-1)
 
