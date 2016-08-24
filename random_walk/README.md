@@ -22,7 +22,7 @@ Author : Lukas Borke
 Submitted : Fri, May 29 2015 by Lukas Borke
 
 Input: 
-- FALSE: number of simulated time points
+- N: number of simulated time points
 - StartVal: Starting value for X_0
 
 Example: 
